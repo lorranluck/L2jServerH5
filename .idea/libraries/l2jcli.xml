@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="l2jcli">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/cli/l2jcli.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

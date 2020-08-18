@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="l2jlogin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/login/l2jlogin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

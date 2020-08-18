@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="l2jserver">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/game/l2jserver.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

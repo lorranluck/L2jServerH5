@@ -1,0 +1,35 @@
+<component name="libraryTable">
+  <library name="libs2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/cli/libs/char-translation-0.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cli/libs/derbyclient-10.15.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cli/libs/ST4-4.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cli/libs/antlr-runtime-3.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cli/libs/jsch-0.1.54.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cli/libs/commons-lang3-3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cli/libs/JavaEWAH-1.1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cli/libs/skb-interfaces-0.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cli/libs/log4j-core-2.11.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cli/libs/ascii-utf-themes-0.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cli/libs/h2-1.4.199.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cli/libs/jzlib-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cli/libs/slf4j-api-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cli/libs/mssql-jdbc-7.4.1.jre11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cli/libs/log4j-api-2.11.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cli/libs/antlr4-4.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cli/libs/protobuf-java-3.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cli/libs/owner-1.0.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cli/libs/hsqldb-2.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cli/libs/asciitable-0.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cli/libs/owner-java8-1.0.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cli/libs/mariadb-java-client-2.4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cli/libs/org.eclipse.jgit-5.2.1.201812262042-r.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cli/libs/postgresql-42.2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cli/libs/mysql-connector-java-8.0.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cli/libs/log4j-slf4j-impl-2.11.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cli/libs/picocli-3.9.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

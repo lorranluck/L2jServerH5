@@ -1,0 +1,35 @@
+<component name="libraryTable">
+  <library name="libs1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/game/libs/c3p0-0.9.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/game/libs/bonecp-0.8.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/game/libs/protobuf-java-3.11.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/game/libs/vibur-dbcp-25.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/game/libs/mysql-connector-java-8.0.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/game/libs/concurrentlinkedhashmap-lru-1.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/game/libs/HikariCP-3.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/game/libs/vibur-object-pool-25.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/game/libs/mchange-commons-java-0.2.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/game/libs/commons-dbcp2-2.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/game/libs/InMemoryJavaCompiler-1.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/game/libs/gson-2.8.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/game/libs/l2j-server-geo-driver-2.6.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/game/libs/log4j-slf4j-impl-2.13.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/game/libs/mariadb-java-client-2.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/game/libs/slf4j-api-1.7.30.jar!/" />
+      <root url="jar://$PROJECT_DIR$/game/libs/l2j-server-commons-2.6.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/game/libs/weupnp-0.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/game/libs/log4j-core-2.13.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/game/libs/owner-java8-1.0.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/game/libs/guava-15.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/game/libs/l2j-server-mmocore-2.6.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/game/libs/commons-pool2-2.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/game/libs/log4j-api-2.13.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/game/libs/owner-1.0.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/game/libs/jul-to-slf4j-1.7.30.jar!/" />
+      <root url="jar://$PROJECT_DIR$/game/libs/commons-logging-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
